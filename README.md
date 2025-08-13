@@ -13,7 +13,7 @@
 <div>
  <a href="https://orcid.org/0000-0002-8306-9091" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Badge"></a>
  <a href = "mailto:tareqfarhadbd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/tareqmdrabiulhossainchy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/tareqchy1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
  ![Snake animation](https://github.com/TareqChy1/TareqChy1/blob/main/github-contribution-grid-snake.svg)
