@@ -1,21 +1,60 @@
-# Hi there, I'm Tareq! :wave:	
- 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TareqChy1&show_icons=true&theme=radical" />
+<h1 align="center">
+Hi, I'm Tareq 👋
+</h1>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TareqChy1&layout=compact" />
+<p align="center">
+<strong>Consultant Engineer | Semantic Web & Knowledge Graphs | Interoperability & Conformance Testing</strong>
+</p>
+
+<p align="center">
+ I work on ontology-driven systems, semantic interoperability, and validation frameworks in distributed environments, with a focus on Energy Data Spaces and EU research projects.
+</p>
 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<div align="center">
+## 🛠️ Tech Stack
 
-##
-<div>
- <a href="https://orcid.org/0000-0002-8306-9091" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Badge"></a>
- <a href = "mailto:tareqfarhadbd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/tareqchy1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/RDF-006699?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWL-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SHACL-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SPARQL-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Knowledge%20Graphs-000000?style=for-the-badge" />
+</p>
 
- ![Snake animation](https://github.com/TareqChy1/TareqChy1/blob/main/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TTCN--3-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
- ![](https://komarev.com/ghpvc/?username=TareqChy1&&style=flat-square&color=green)
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TareqChy1&theme=radical" width="60%" />
+</p>
+
+
+
+## 🔗 Contact
+
+<p align="center">
+  <a href="https://orcid.org/0000-0002-8306-9091">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" />
+  </a>
+  <a href="mailto:tareqmdrabiulhossainchy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tareqchy1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TareqChy1&style=flat-square&color=blueviolet" />
+</p>
